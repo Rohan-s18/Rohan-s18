@@ -35,6 +35,9 @@ These are some of my public repositories on github:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rohan-s18&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
+
+<img src="https://komarev.com/ghpvc/?username=Rohan-s18&style=flat-square&color=blue" alt=""/>
+
 ## Socials
 You can reach out to me at:  
 rxs1182@case.edu  
@@ -49,7 +52,6 @@ rohan.b.singh54@gmail.com
   </a>
 </div>
 
-<img src="https://komarev.com/ghpvc/?username=Rohan-s18&style=flat-square&color=blue" alt=""/>
 
 <!--
 **Rohan-s18/Rohan-s18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
