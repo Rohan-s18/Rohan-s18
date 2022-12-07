@@ -40,7 +40,7 @@ These are a few fields that I find really interesting:
 ## Github Stats 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Rohan-s18&theme=dark&background=000000)](https://git.io/streak-stats)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rohan-s18&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rohan-s18&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/rohan-singh-52a369195/">
