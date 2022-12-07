@@ -1,6 +1,6 @@
 # Rohan Singh
 ## About me
-I am an Undergraduate Computer Science and Physics major at Case Western Reserve University. I am currently a sophomore in college and I plan on attending Graduate School after this. I like to work on Open-source projects and creating learning modules for different fields of Computer Science, so if you're interested in working with me, please feel free to reach out.  
+I am an Undergraduate Computer Science and Physics major at Case Western Reserve University. I am currently a sophomore in college and I plan on attending Graduate School after this. I an interested in Quantum Computing, Artificial Intelligence, Machine Learning, Operating System (Linux Superfan) and Low-level programming. If you're interested in working on a project with me, please feel free to reach out.  
 
 ## My Repositories
 These are some of my public repositories on github:  
@@ -9,13 +9,6 @@ These are some of my public repositories on github:
   - **<a href="https://github.com/Rohan-s18/Data-Structures"> Operating Systems Lab </a>:** This repository contains the lab that I designed for an Operating Systems class that I'm teaching.  
   - **<a href="https://github.com/Rohan-s18/Data-Analysis-and-Machine-Learning">Data Analysis and Machine Learning Notebooks</a>:** This repository contains Data Analysis notebooks (Jupyter) for a bunch of random things.  
   - **<a href="https://github.com/Rohan-s18/Web_Development">Web Development</a>:** This repository contains source code for anyone interested in Web Development ranging from basic HTML/CSS/JS to react and Next Js projects.   
-
-## Fields of Interest
-These are a few fields that I find really interesting:     
-  - Operating Systems and Low-level programming    
-  - Artificial Intelligence and Machine Learning    
-  - Quantum Computing   
-  - Data Analysis   
 
 ## Programming Languages and Tools:
 <div>
@@ -41,6 +34,11 @@ These are a few fields that I find really interesting:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Rohan-s18&theme=dark&background=000000)](https://git.io/streak-stats)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rohan-s18&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+## Socials
+You can reach out to me at:  
+rxs1182@case.edu  
+rohan.b.singh54@gmail.com  
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/rohan-singh-52a369195/">
