@@ -35,6 +35,8 @@ These are some of my public repositories on github:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rohan-s18&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=Rohan-s18&show_icons=true&theme=great-gatsby" alt="tomondre" />
+<br>
 
 <img src="https://komarev.com/ghpvc/?username=Rohan-s18&style=flat-square&color=blue" alt=""/>
 
