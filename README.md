@@ -37,8 +37,11 @@ These are some of my public repositories on github:
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=Rohan-s18&show_icons=true&theme=great-gatsby" alt="tomondre" />
 <br>
-
-<img src="https://komarev.com/ghpvc/?username=Rohan-s18&style=flat-square&color=blue" alt=""/>
+  
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/Rohan-s18/count.svg" />
+</p>
 
 ## Socials
 You can reach out to me at:  
@@ -53,6 +56,8 @@ rohan.b.singh54@gmail.com
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
 </div>
+
+<img src="https://komarev.com/ghpvc/?username=Rohan-s18&style=flat-square&color=blue" alt=""/>
 
 
 <!--
