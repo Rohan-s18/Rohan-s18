@@ -58,8 +58,9 @@ rohan.b.singh54@gmail.com
   </a>
 </div>
 
+<!--
 <img src="https://komarev.com/ghpvc/?username=Rohan-s18&style=flat-square&color=blue" alt=""/>
-
+-->
 
 <!--
 **Rohan-s18/Rohan-s18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
