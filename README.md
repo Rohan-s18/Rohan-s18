@@ -7,7 +7,7 @@ These are some of my public repositories on github:
   - **<a href="https://github.com/Rohan-s18/Artificial_Intelligence"> Artificial Intelligence </a>:** This repository covers the basic and intermediate topics of AI and Machine Learning.  
   - **<a href="https://github.com/Rohan-s18/Data-Structures"> Data Structures </a>:** This repository extensively covers Data Structures and Algorithms that you can use for college or interviews.   
   - **<a href="https://github.com/Rohan-s18/Neural-Networks">Neural Networks </a>:** This repository contains source code for different types of Neural Networks that I developed from scratch.  
-  - **<a href="https://github.com/Rohan-s18/Data-Structures"> Operating Systems Lab </a>:** This repository contains the lab modules that I designed for an Operating Systems class that I'm teaching.  
+  - **<a href="https://github.com/Rohan-s18/CSDS338_Lab"> Operating Systems Lab </a>:** This repository contains the lab modules that I designed for an Operating Systems class that I'm teaching.  
   - **<a href="https://github.com/Rohan-s18/Data-Analysis-and-Machine-Learning">Data Analysis and Machine Learning</a>:** This repository contains Data Analysis and Machine Learning source code and applications for a bunch of random things.  
   - **<a href="https://github.com/Rohan-s18/Web_Development">Web Development</a>:** This repository contains source code for anyone interested in Web Development ranging from basic HTML/CSS/JS to react and Next Js projects.   
 
