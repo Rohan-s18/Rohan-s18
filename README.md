@@ -10,7 +10,8 @@ These are some of my public repositories on github:
   - **<a href="https://github.com/Rohan-s18/CSDS338_Lab"> Operating Systems Lab </a>:** This repository contains the lab modules that I designed for an Operating Systems class that I'm teaching.  
   - **<a href="https://github.com/Rohan-s18/Data-Analysis-and-Machine-Learning">Data Analysis and Machine Learning</a>:** This repository contains Data Analysis and Machine Learning source code and applications for a bunch of random things.  
   - **<a href="https://github.com/Rohan-s18/Web_Development">Web Development</a>:** This repository contains source code for anyone interested in Web Development ranging from basic HTML/CSS/JS to react and Next Js projects.   
-  - **<a href="https://github.com/Rohan-s18/CPP_Cookbook">C++ Cookbook</a>:** This repository contains source code for anyone interested in learning C++.     
+  - **<a href="https://github.com/Rohan-s18/CPP_Cookbook">C++ Cookbook</a>:** This repository contains source code for anyone interested in learning C++.  
+  - **<a href="https://github.com/Rohan-s18/Computer-Vision">Computer Vision</a>:** This repository contains source code for Computer Vision using python's opencv library.  
 
 
 ## Github Stats 
