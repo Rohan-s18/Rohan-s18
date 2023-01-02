@@ -4,6 +4,7 @@ I am an Undergraduate Computer Science and Physics major at Case Western Reserve
 
 ## My Repositories
 These are some of my public repositories on github:  
+  - **<a href="https://github.com/Rohan-s18/SNUPy"> SNUPy </a>:** This repository contains the source code for my Python Package for Machine Learning.    
   - **<a href="https://github.com/Rohan-s18/Artificial_Intelligence"> Artificial Intelligence </a>:** This repository covers the basic and intermediate topics of AI and Machine Learning.  
   - **<a href="https://github.com/Rohan-s18/Quantum_Computing">Quantum Computing</a>:** This repository contains source code for Quantum Computing algorithms using python's qiskit library. 
   - **<a href="https://github.com/Rohan-s18/Neural-Networks">Neural Networks </a>:** This repository contains source code for different types of Neural Networks that I developed from scratch.  
