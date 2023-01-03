@@ -2,6 +2,9 @@
 ## About me
 I am an Undergraduate Computer Science and Physics major at Case Western Reserve University. I am currently a sophomore in college and I plan on attending Graduate School after this. I am interested in Quantum Computing, Artificial Intelligence, Machine Learning, Operating System (Linux Superfan) and Low-level programming. If you're interested in working on a project with me, please feel free to reach out.  
 
+Check out my personal website **<a href="https://jocularglint54.com">here</a>**  
+https://jocularglint54.com
+
 ## My Repositories
 These are some of my public repositories on github:  
   - **<a href="https://github.com/Rohan-s18/SNUPy"> SNUPy </a>:** This repository contains the source code for my Python Package for Machine Learning.    
