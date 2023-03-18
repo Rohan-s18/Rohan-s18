@@ -5,7 +5,8 @@ I am an Undergraduate Computer Science and Physics major at Case Western Reserve
 I am currently undertaking a research project on a Drug-Drug interaction and Drug-Target interactions using Coupled tensor-Tensor Completion with the Department of Computer Science and Data Science at Case Western Reserve University.
 
 Check out my personal website **<a href="https://jocularglint54.com">here</a>**  
-https://jocularglint54.com
+https://jocularglint54.com  
+https://snupy.org  
 
 ## My Repositories
 These are some of my public repositories on github:  
