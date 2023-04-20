@@ -73,7 +73,7 @@ These are some of my public repositories on github:
 </div>
 
 ## Socials
-📫 How to reach me:  
+📫 You can reach out to me at:  
 rxs1182@case.edu  
 rohan.b.singh54@gmail.com  
 
