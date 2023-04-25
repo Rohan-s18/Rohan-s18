@@ -4,7 +4,7 @@ I am an Undergraduate Computer Science and Physics major at Case Western Reserve
 
 I am currently undertaking a research project on a Drug-Drug interaction and Drug-Target interactions using Coupled tensor-Tensor Completion with the Department of Computer Science and Data Science at Case Western Reserve University.
 
-I am an incoming Data Science Intern at Lockheed Martin for the Summer of 2023.  
+I am currently working as a Data Science Intern at Lockheed Martin.  
 
 Check out my personal website **<a href="https://jocularglint54.com">here</a>**  
 https://jocularglint54.com  
