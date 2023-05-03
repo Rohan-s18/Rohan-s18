@@ -7,8 +7,8 @@ I am undertaking a research project on a Drug-Drug interaction and Drug-Target i
 I am now officially working as a Data Science Intern at Lockheed Martin.  
 
 Check out my personal website **<a href="https://jocularglint54.com">here</a>**  
-https://jocularglint54.com  
-https://snupy.org  
+https://jocularglint54.com   
+https://snupy.org   
 
 ## My Repositories
 These are some of my public repositories on github:  
