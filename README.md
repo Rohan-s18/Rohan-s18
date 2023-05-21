@@ -29,18 +29,21 @@ These are some of my public repositories on github:
   
 
 ## Github Stats 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Rohan-s18&theme=dark&background=000000)](https://git.io/streak-stats)  
+<!--
+ [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Rohan-s18&theme=dark&background=000000)](https://git.io/streak-stats)  
+ -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rohan-s18&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rohan-s18&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=Rohan-s18&show_icons=true&theme=great-gatsby" alt="tomondre" />
+
+ <img src="https://github-readme-stats.vercel.app/api?username=Rohan-s18&show_icons=true&theme=great-gatsby" alt="tomondre" />
 <br>
   
   
-<p align="center"> 
+
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/Rohan-s18/count.svg" />
-</p>
+
 
 ## Programming Languages and Tools:
 <div>
