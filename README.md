@@ -4,7 +4,7 @@ I am an Undergraduate Computer Science and Physics major at Case Western Reserve
 
 I am undertaking a research project on a Drug-Drug interaction and Drug-Target interactions using Coupled Tensor-Tensor Completion with the Department of Computer Science and Data Science at Case Western Reserve University. My other research work deals with using Transformer based models for Sequential Prediction/Completion tasks.
 
-I am currently working as a Data Science and Machine Learning Intern (remote) at Lockheed Martin Corporation.  
+I am currently working as a Data Science and Machine Learning Intern (remote) at Lockheed Martin.  
 
 Check out my personal website **<a href="https://jocularglint54.com">here</a>**  
 https://jocularglint54.com   
