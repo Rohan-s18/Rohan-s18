@@ -1,6 +1,6 @@
 # Rohan Singh
 ## About me
-I am an Undergraduate Computer Science & Physics student at Case Western Reserve University, Cleveland Ohio. I am a rising Junior in college and I will be attending Graduate School after this. I am interested in Quantum Computing, Artificial Intelligence, Machine Learning, Operating System and Low-level programming. If you're interested in working on a project with me, please feel free to reach out.  
+I am an Undergraduate Computer Science & Physics student at Case Western Reserve University in Cleveland, Ohio. I am a rising Junior in college and I will be attending Graduate School after this. I am interested in Quantum Computing, Artificial Intelligence, Machine Learning, Operating System and Low-level programming. If you're interested in working on a project with me, please feel free to reach out.  
 
 I am undertaking a research project on a Drug-Drug interaction and Drug-Target interactions using Coupled Tensor-Tensor Completion with the Department of Computer Science and Data Science at Case Western Reserve University. My other research work deals with using Transformer based models for Sequential Prediction and Completion tasks.
 
