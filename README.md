@@ -2,7 +2,7 @@
 ## About me
 I am an Rising Junior Computer Science & Physics student at Case Western Reserve University in Cleveland, Ohio. I plan on attending Graduate School after this. I am interested in Quantum Computing, Artificial Intelligence, Machine Learning, Operating System and Low-level programming. If you're interested in working on a project with me, please feel free to reach out. I also love watching baseball in my free time (San Francisco Giants Fan). 
 
-I am undertaking a research project on a Drug-Drug interaction and Drug-Target interactions using Coupled Tensor-Tensor Completion with the Department of Computer Science and Data Science at Case Western Reserve University. My other research work deals with using Transformer based models for Sequential Prediction and Completion tasks.
+I am undertaking a research project on a Drug-Drug interaction and Drug-Target interactions using Coupled Tensor-Tensor Completion with the Department of Computer Science and Data Science at Case Western Reserve University. My other research work deals with using Transformer based models for Sequence Classification (Sentimental) and Predictive Analysis.
 
 I am currently working as a Data Science and Machine Learning Intern (remote) at Lockheed Martin.  
 
