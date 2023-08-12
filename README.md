@@ -11,7 +11,7 @@ https://jocularglint54.com
 https://snupy.org   
 
 ## My Repositories
-These are some of my public repositories on github:  
+These are some of my popular public repositories on github:  
  - **<a href="https://github.com/Rohan-s18/Artificial_Intelligence"> Artificial Intelligence </a>:** This repository covers the basic and intermediate topics of AI and Machine Learning.  
   - **<a href="https://github.com/Rohan-s18/SNUPy"> SNUPy </a>:** This repository contains the source code for my Python Package for Machine Learning.    
   - **<a href="https://github.com/Rohan-s18/Quantum_Computing">Quantum Computing</a>:** This repository contains source code for Quantum Computing algorithms using python's qiskit library. 
