@@ -1,6 +1,6 @@
 # Rohan Singh
 ## About me
-I am a Computer Science, Physics & Math student at Case Western Reserve University in Cleveland, Ohio. I am currently working as a Machine Learning Intern at Lockheed Martin & I plan on attending Graduate School after this. I am interested in Quantum Computing, Artificial Intelligence, Machine Learning, Operating System and Low-level programming. If you're interested in working on a project with me, please feel free to reach out. I also love watching baseball in my free time (San Francisco Giants Fan). 
+I am a Computer Science, Physics & Math student at Case Western Reserve University starting my junior year. I am currently working as a Machine Learning Intern at Lockheed Martin & I plan on attending Graduate School after this. I am interested in Quantum Computing, Artificial Intelligence, Machine Learning, Operating System and Low-level programming. If you're interested in working on a project with me, please feel free to reach out. I also love watching baseball in my free time (San Francisco Giants Fan). 
 
 I am undertaking a research project on a Drug-Drug interaction and Drug-Target interactions using Coupled Tensor-Tensor Completion with the Department of Computer Science and Data Science at Case Western Reserve University. My other research work deals with using Transformer based models for Sequence and Token Classification and using that for Predictive Analysis. Some of my side projects include designing and programming embedded systems using Raspberry Pis and Arduinos.
 
