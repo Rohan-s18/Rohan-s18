@@ -1,9 +1,8 @@
 # Rohan Singh
 ## About me
-I am a Computer Science student at Case Western Reserve University graduating this Spring (May, 2024). I will be attending Columbia University for graduate school after this to pursue a Masters of Science in Computer Science on a Machine Learning track. I am interested in Quantum Computing, Artificial Intelligence, Machine Learning, Operating System and Low-level programming. If you're interested in working on a project with me, please feel free to reach out. I also love watching sports, especially baseball in my free time (I am a San Francisco Giants and Cleveland Guardians Fan). 
+I am a Graduate Computer Science student at Columbia University on the Machine Learning track. I am interested in Quantum Computing, Artificial Intelligence, Machine Learning, Operating System and Low-level programming. If you're interested in working on a project with me, please feel free to reach out. I also love watching sports, especially baseball in my free time (I am a San Francisco Giants and Cleveland Guardians Fan). 
 
-I am undertaking a research project on a Drug-Drug interaction and Drug-Target interactions using Coupled Tensor-Tensor Completion with the Department of Computer Science at Case Western Reserve University. My other research work deals with using Transformer based models for Sequence and Token Classification and using that for Predictive Analysis. Some of my side projects include designing and programming embedded systems using Raspberry Pis and Arduino boards.
-
+I am a Research Assistant for the Al Quraishi Lab at Columbia University. I work on Protein-Protein Interaction (PPI) models that model physical binding events that occur between protein chains.
 
 
 Check out my personal website **<a href="https://jocularglint54.com">here</a>**  
