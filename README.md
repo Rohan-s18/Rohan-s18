@@ -4,6 +4,8 @@ I am a Graduate Computer Science student at Columbia University on the Machine L
 
 I am a Research Assistant for the Al Quraishi Lab at Columbia University. I work on Protein-Protein Interaction (PPI) models that model physical binding events that occur between protein chains.
 
+I graduated from Case Western Reserve University in May 2024 with a BS in Computer Science and minors in Physics and Mathematics. If you're ever interested in knowing what CS, Physics or Math classes you should take here, please feel free to reach out!
+
 
 Check out my personal website **<a href="https://jocularglint54.com">here</a>**  
 https://jocularglint54.com   
@@ -76,7 +78,7 @@ These are some of my popular repositories on github:
 
 ## Socials
 📫 You can reach out to me at:  
-rxs1182@case.edu  
+rs4607@columbia.edu  
 rohan.b.singh54@gmail.com  
 
 <div id="badges">
