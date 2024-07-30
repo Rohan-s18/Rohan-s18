@@ -2,7 +2,7 @@
 ## About me
 I am a Graduate Computer Science student at Columbia University on the Machine Learning track. I am interested in Quantum Computing, Artificial Intelligence, Machine Learning, Operating System and Low-level programming. If you're interested in working on a project with me, please feel free to reach out. I also love watching sports, especially baseball in my free time (I am a San Francisco Giants and Cleveland Guardians Fan). 
 
-I am a Research Assistant for the Al Quraishi Lab at Columbia University. I work on Protein-Protein Interaction (PPI) models that model physical binding events that occur between protein chains.
+I am a Research Assistant for the AlQuraishi Lab at Columbia University. I work on Protein-Protein Interaction (PPI) models that model physical binding events that occur between protein chains.
 
 I graduated from Case Western Reserve University in May 2024 with a BS in Computer Science and minors in Physics and Mathematics. If you're ever interested in knowing what CS, Physics or Math classes you should take here, please feel free to reach out!
 
