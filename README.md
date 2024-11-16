@@ -1,6 +1,6 @@
 # Rohan Singh
 ## About me
-I am a Software Engineer at Google on the ProxyBidding ML team for Google Search Ads in New York. I'm also obtaining a Master’s degree in Computer Science at Columbia University, focusing on Machine Learning. I am a member of the AlQuraishi Lab for Mathematical Genomics at Columbia. I graduated from Case Western Reserve University in 2024 with a B.S. in Computer Science. 
+I am a Software Engineer at Google on the ProxyBidder ML team for Google Search Ads in New York. I'm also obtaining a Master’s degree in Computer Science at Columbia University, focusing on Machine Learning. I am a member of the AlQuraishi Lab for Mathematical Genomics at Columbia. I graduated from Case Western Reserve University in 2024 with a B.S. in Computer Science. 
 
 If you're interested in working on a project with me, please feel free to reach out. I'm currently working on building a C++ backend for a Python ML library, it's basically going to be a poor man's version of PyTorch/TensorFlow.
 
